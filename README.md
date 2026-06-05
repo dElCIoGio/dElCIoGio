@@ -4,7 +4,7 @@ Computer Science student at the University of Liverpool, building backend system
 
 Currently focused on backend engineering, distributed systems, search infrastructure, API design, and cloud/devops fundamentals.
 
-[LinkedIn](https://www.linkedin.com/in/delcio-agostinho/) · [Portfolio](https://portfolio-coral-theta-rtb06s11kb.vercel.app) · [Email](mailto:dagostinho4@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/delcio-agostinho-200797181) · [Portfolio](https://portfolio-coral-theta-rtb06s11kb.vercel.app) · [Email](mailto:delciogiovani@outlook.com)
 
 ---
 
@@ -17,7 +17,7 @@ Currently focused on backend engineering, distributed systems, search infrastruc
 
 ---
 
-## Start with these projects
+## Main projects
 
 | Project | What it shows | Stack |
 |---|---|---|
@@ -72,6 +72,6 @@ Tools:          Git, OpenAPI, Postman, JetBrains IDEs, VS Code
 
 I am currently looking for software engineering, backend, cloud, DevOps, and platform engineering placement opportunities.
 
-- Email: [dagostinho4@gmail.com](mailto:dagostinho4@gmail.com)
-- LinkedIn: [linkedin.com/in/delcio-agostinho](https://www.linkedin.com/in/delcio-agostinho/)
+- Email: [dagostinho4@gmail.com](mailto:delciogiovani@outlook.com)
+- LinkedIn: [linkedin.com/in/delcio-agostinho-200797181](https://www.linkedin.com/in/delcio-agostinho-200797181/)
 - GitHub: [github.com/dElCIoGio](https://github.com/dElCIoGio)

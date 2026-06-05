@@ -4,7 +4,7 @@ Computer Science student at the University of Liverpool, building backend system
 
 Currently focused on backend engineering, distributed systems, search infrastructure, API design, and cloud/devops fundamentals.
 
-[LinkedIn](https://www.linkedin.com/in/delcio-agostinho/) · [Portfolio](https://github.com/dElCIoGio) · [Email](mailto:dagostinho4@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/delcio-agostinho/) · [Portfolio](https://portfolio-coral-theta-rtb06s11kb.vercel.app) · [Email](mailto:dagostinho4@gmail.com)
 
 ---
 
